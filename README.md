@@ -33,8 +33,3 @@ import LwFirewords from 'lw_firewords'
 const lw_f = new LwFirewords();//创建实例
 lw_f.init();//启动事件
 ```
-
-页面效果
-
-
-![](https://blog-static.cnblogs.com/files/murenziwei/Video_2020-03-10_144952.gif)
