@@ -1,1 +1,0 @@
-var lw_firewords=require("./index.js")
