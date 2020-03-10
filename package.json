@@ -1,0 +1,20 @@
+{
+  "name": "lw_firewords",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murenziwei/lw_firewords.git"
+  },
+  "author": "murenziwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murenziwei/lw_firewords/issues"
+  },
+  "homepage": "https://github.com/murenziwei/lw_firewords#readme"
+}
